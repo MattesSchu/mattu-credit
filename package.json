@@ -1,6 +1,6 @@
 {
-  "name": "vue-money-maker",
-  "version": "0.0.0",
+  "name": "mattu-credit",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "vite",

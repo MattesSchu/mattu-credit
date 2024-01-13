@@ -3,9 +3,9 @@
 
 <template>
   <div>
-    <h2>The Header</h2>
+    <h1>Mattu Credit</h1>
     <p>
-      Mattu versucht seine Finanzen für die nächsten Jahre zu ermitteln.
+      Ein Gefühl für das nachhaltige anlegen von Geld
     </p>
   </div>
 </template>
